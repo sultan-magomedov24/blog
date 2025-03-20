@@ -14,6 +14,7 @@
       "div",
       "em",
       "footer",
+      "g",
       "h1",
       "h2",
       "h3",
@@ -486,6 +487,7 @@
       "shrink-0",
       "sidebar-active-item",
       "skills-content",
+      "skills-description",
       "skills-icon",
       "skills-name",
       "sm:-inset-x-6",
@@ -575,6 +577,12 @@
       "z-30"
     ],
     "ids": [
+      "-где-используется-markdown",
+      "-итоги-учебной-недели",
+      "-преимущества-markdown",
+      "-что-такое-markdown",
+      "-что-такое-языки-разметки",
+      "-языки-разметки-и-markdown",
       "code",
       "did-you-find-this-page-helpful-consider-sharing-it-",
       "hide-button",

@@ -35,63 +35,71 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests:  
+  - Разработка программного обеспечения  
+  - Искусственный интеллект и машинное обучение  
+  - Базы данных и их оптимизация  
+  - Разработка мобильных приложений  
+  - Облачные технологии и DevOps  
 
-education:
-  - area: Student
-    institution: RUDN
-    date_start: 2024-09-01
-    date_end: 2028-05-31
-    summary: 
-      
-work:
-  - position: Student
-    company_name: RUDN
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
-    summary: 
+education:  
+  - area: Student  
+    institution: RUDN  
+    date_start: 2024-09-01  
+    date_end: 2028-05-31  
+    summary: Студент направления "Прикладная информатика". Интересуюсь разработкой ПО, машинным обучением и современными технологиями в области облачных вычислений.  
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Хард скиллы
-    items:
-      - name: Python
-        description: ''
-        percent: 60
-        icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
-        icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Хобби
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+work:  
+  - position: Student  
+    company_name: RUDN  
+    company_url: ''  
+    company_logo: ''  
+    date_start: 2024-09-01  
+    date_end: ''  
+    summary: Участвую в учебных проектах по разработке программного обеспечения и созданию мобильных приложений. Развиваю навыки в области AI и DevOps.  
 
-languages:
-  - name: Русский
-    percent: 100
-  - name: Английский
-    percent: 60
+# Skills  
+# Add your own SVG icons to assets/media/icons/  
+skills:  
+  - name: Хард скиллы  
+    items:  
+      - name: Python  
+        description: Программирование и создание алгоритмов, работа с библиотеками для машинного обучения.  
+        percent: 80  
+        icon: code-bracket  
+      - name: JavaScript  
+        description: Разработка фронтенда для веб-приложений, работа с библиотеками и фреймворками.  
+        percent: 70  
+        icon: code  
+      - name: SQL  
+        description: Создание и оптимизация запросов, работа с реляционными базами данных.  
+        percent: 75  
+        icon: database  
+      - name: Docker & Kubernetes  
+        description: Основы контейнеризации, управление приложениями в облаке.  
+        percent: 60  
+        icon: cube  
+  - name: Хобби  
+    color: '#eeac02'  
+    color_border: '#f0bf23'  
+    items:  
+      - name: Программирование игр  
+        description: Создание простых игр на Unity и Godot.  
+        percent: 70  
+      - name: Электронные гаджеты  
+        description: Разработка и тестирование собственных проектов на базе микроконтроллеров.  
+        percent: 80  
+      - name: Футбол  
+        description: Увлекаюсь футболом, играю с друзьями в свободное время.  
+        percent: 85  
+
+languages:  
+  - name: Русский  
+    percent: 100  
+  - name: Английский  
+    percent: 70  
+  - name: Турецкий  
+    percent: 60  
 
 # Awards.
 #   Add/remove as many awards below as you like.
